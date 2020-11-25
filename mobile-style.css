@@ -4,8 +4,8 @@
     }
  
     .section-1 .row .col-md-6 .panel {
-        position:right;
-        width:medium;
+        position:initial;
+        width:initial;
         height:initial;
     }
  
