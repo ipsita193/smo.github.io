@@ -125,7 +125,7 @@ header .container .col-md-7 button {
 .section-1 .row .col-md-6 .panel {
   position: absolute;
   top: 7vmin;
-  left: -18vmin;
+  right: -18vmin;
   background: white;
   border-radius: 3px;
   text-align: right;
